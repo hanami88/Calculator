@@ -22,6 +22,9 @@ The app provides basic arithmetic operations — addition, subtraction, multipli
 
 ---
 
+<img width="1440" height="688" alt="image" src="https://github.com/user-attachments/assets/5e3803c6-b258-4d47-9a5c-b8207b3a647e" />
+
+---
 ## 🚀 Getting Started
 
 ### Clone the repository
